@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "ping_mod",
+  "version": "1.2+1.20.5",
+  "name": "Ping Mod",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/leman/Ping Mod"
+  },
+  "license": "All-Rights-Reserved",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "org.example.pingmod.ping_mod.client.PingModClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.10",
+    "fabric": "*",
+    "minecraft": "1.20.5"
+  }
+}
