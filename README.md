@@ -1,0 +1,5 @@
+- Minecraft Mod
+- Commands:
+  - /ping
+  - /ping <player>
+- It is self-explanatory, if you dont understand it, then idk
